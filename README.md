@@ -1,6 +1,6 @@
 Olá! Eu sou o Carlos José Leão
 
-🌱 Estudando Java
+🌱 Estudando C#
 
 😃 Pronomuns: ele/dele
 

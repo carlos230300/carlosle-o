@@ -1,7 +1,5 @@
 Olá! Eu sou o Carlos José Leão
 
-🌱 Estudando C#
-
 😃 Pronomuns: ele/dele
 
 <div>
